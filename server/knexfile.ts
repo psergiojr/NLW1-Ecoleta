@@ -1,0 +1,1 @@
+// vídeo parou em 58:02, configurando o knexfile
