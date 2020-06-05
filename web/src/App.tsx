@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
 
+import Header from './Header';
+
 function App() {
   return (
-    <p>
-      HEEEEEEEEEEEY MACARENA!
-    </p>
+    <Header title="Buenas noches Macarena" />
   );
 }
 
